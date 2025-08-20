@@ -1,6 +1,6 @@
-# Rotatet the elements by k places
+# 189 Rotate the elements by k places
 # https://leetcode.com/problems/rotate-array/description/
-# Problem no 189
+# Medium
 
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
